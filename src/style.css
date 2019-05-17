@@ -1,0 +1,2 @@
+#pane {-fx-background-color: linear-gradient(cyan,crimson)}
+.button {-fx-pref-width: 50; -fx-pref-height: 50; -fx-background-color: whitesmoke;}
